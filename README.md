@@ -1,4 +1,4 @@
-# Customer Lifetime Value Project
+# Customer Lifetime Value Prediction
 
 
 
@@ -42,7 +42,7 @@ The project repository is organized as follows:
 ├── README.md           <- README .
 ├── notebooks           <- Folder containing the final reports/results of this project.
 │   │
-│   └── rossman_sales_forecasting.py   <- Final notebook for the project.
+│   └── clv.py   <- Final notebook for the project.
 ├── reports            <- Folder containing the final reports/results of this project.
 │   │
 │   └── Report.pdf     <- Final analysis report in PDF.
