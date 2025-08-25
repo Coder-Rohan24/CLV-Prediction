@@ -58,12 +58,12 @@ The project repository is organized as follows:
 
 This project is licensed under the [MIT License](LICENSE).
 ## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+- <ins><b>©2023 Anirban Halder. All rights reserved</b></ins>
+
+## Contact
+- Email: halder.anirban03@gmail.com
+- <b>[LinkedIn](https://www.linkedin.com/in/anirban-halder-b252a7258/)</b>
 
 ## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Anirban Halder](mailto:halder.anirban03@gmail.com). We would love to hear from you!
 
